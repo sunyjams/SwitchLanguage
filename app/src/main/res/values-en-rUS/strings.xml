@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SwitchLanguage</string>
+    <string name="content">Hello World</string>
+    <string name="chinese_simplified">simplified chinese</string>
+    <string name="chinese_traditional">traditional chinese</string>
+    <string name="english_us">english US</string>
+</resources>

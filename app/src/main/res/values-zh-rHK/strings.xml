@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">切換語言</string>
+    <string name="content">你好世界</string>
+    <string name="chinese_simplified">簡體中文</string>
+    <string name="chinese_traditional">繁體中文</string>
+    <string name="english_us">美國英語</string>
+</resources>
